@@ -3,7 +3,7 @@ __pycache__/
 *.pyo
 *.pyd
 .env
-*.h5
-*.weights.h5
-*.json
+# *.h5
+# *.weights.h5
+# *.json
 data/
