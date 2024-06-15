@@ -13,15 +13,17 @@ This project classifies 12 classes of diseases using a deep learning model built
 ## Setup
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/DiseaseClassification.git
-    cd DiseaseClassification
-    ```
+
+   ```bash
+   git clone https://github.com/ABo-EsMaiL/Psoriasis-Classification.git
+   cd Psoriasis-Classification
+   ```
 
 2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Place your dataset in the `data` directory. The exact dataset structure is private and should not be shared.
 
@@ -31,3 +33,4 @@ This project classifies 12 classes of diseases using a deep learning model built
 
 ```bash
 bash scripts/run_training.sh
+```
